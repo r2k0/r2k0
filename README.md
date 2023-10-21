@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @r2k0
+- 👋 Hi, I’m Ethan
 - 📫 How to reach me ... dm me on twitter @r2k0
 
 <!---
