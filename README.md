@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Ethan
-- 📫 How to reach me ... dm me on twitter @r2k0
+- 👋 Hi
+
 
 <!---
 r2k0/r2k0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
